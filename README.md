@@ -1,6 +1,6 @@
 # Some basic Git commands are:
 ```
-git init
+* git init
 git status
 git add .
 git commit -m "your message about this commit"
