@@ -1,6 +1,6 @@
 # Git-commands
-git init
-git status
+# git init
+# git status
 git add .
 git commit -m "your message about this commit"
 git branch                                        //list all the branches
