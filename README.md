@@ -1,6 +1,7 @@
-# Git-commands
-# git init
-# git status
+# Some basic Git commands are:
+```
+git init
+git status
 git add .
 git commit -m "your message about this commit"
 git branch                                        //list all the branches
@@ -15,3 +16,4 @@ git push -u origin branch_name                    // to push any branch to the o
 git log                                           //list previous commits
 git revert commit_id                              //to uncommit a commit
 git remote -v                                     //list the setups
+```
