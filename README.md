@@ -31,4 +31,5 @@
 - git revert commit_id                              //to uncommit a commit
 
 - git remote -v                                     //list the setups
+- git remote set-url origin "link of the repo"      // to reset the origin to yoyr repo on github to the local repo
 ```
