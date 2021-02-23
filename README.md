@@ -31,5 +31,10 @@
 - git revert commit_id                              //to uncommit a commit
 
 - git remote -v                                     //list the setups
+
 - git remote set-url origin "link of the repo"      // to reset the origin to yoyr repo on github to the local repo
+
+- git config --global user.name "your-github-username"  //to set the username and email by which you commit the repo
+  git config --global user.email "your-github-email"
+
 ```
