@@ -37,4 +37,10 @@
 - git config --global user.name "your-github-username"  //to set the username and email by which you commit the repo
   git config --global user.email "your-github-email"
 
+//to squash number of commits in a single commit  
+- git log                                    //show all the previous commmits
+- git rebase -i HEAD~<no of commit>         //rebase the commit and change the pick into squash/s
+- follow necessary commands
+- git push -u origin <branch name> --force
+- 
 ```
